@@ -1,7 +1,7 @@
 {
   "name": "nodebb",
   "version": "1.0.0",
-  "description": "Forum dyskusyjne NodeBB",
+  "description": "Forum dyskusyjne NodeBB dla Showify",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
