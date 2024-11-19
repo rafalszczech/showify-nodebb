@@ -1,0 +1,5 @@
+{
+    "url": "mongodb+srv://rafalszczech:gL6Yc2ijNy9qu2CL@cluster68415.6jxvjm5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster68415",
+    "database": "showify-forum",
+    "port": "27017"
+  }
