@@ -2,12 +2,13 @@
   "name": "showify-nodebb",
   "version": "1.0.0",
   "description": "[![Workflow](https://github.com/NodeBB/NodeBB/actions/workflows/test.yaml/badge.svg)](https://github.com/NodeBB/NodeBB/actions/workflows/test.yaml) [![Coverage Status](https://coveralls.io/repos/github/NodeBB/NodeBB/badge.svg?branch=master)](https://coveralls.io/github/NodeBB/NodeBB?branch=master) [![Code Climate](https://codeclimate.com/github/NodeBB/NodeBB/badges/gpa.svg)](https://codeclimate.com/github/NodeBB/NodeBB) [![](https://dcbadge.vercel.app/api/server/p6YKPXu7er?style=flat)](https://discord.gg/p6YKPXu7er)",
-  "main": "Gruntfile.js",
+  "main": "app.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
   },
   "keywords": [],
   "author": "",
